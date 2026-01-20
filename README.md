@@ -1,0 +1,2 @@
+# parsovanie_prospektmaschine
+Vypracovanie zadania
