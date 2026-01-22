@@ -17,6 +17,9 @@ def main():
 
     data = [leaflet.__dict__ for leaflet in leaflets]
 
+    # Create output directory if it doesn't exist
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
