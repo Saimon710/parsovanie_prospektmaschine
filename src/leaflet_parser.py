@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from typing import List
+from datetime import datetime
 from models import Leaflet
 
 
@@ -33,7 +34,10 @@ class ProspektParser:
                 
                 #Getting the validity dates
                 date = item.select_one("p.grid-item-content small.hidden-sm").get_text(strip=True)
-                valid_from, valid_to = date.split(" - ")
+                valid_from_str, valid_to_str = date.split(" - ")
+                # Convert from dd.mm.yyyy to yyyy-mm-dd
+                valid_from = datetime.strptime(valid_from_str, "%d.%m.%Y").strftime("%Y-%m-%d")
+                valid_to = datetime.strptime(valid_to_str, "%d.%m.%Y").strftime("%Y-%m-%d")
 
                 leaflet = Leaflet(
                     title=title,
