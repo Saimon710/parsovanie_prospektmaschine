@@ -1,11 +1,18 @@
 import json
-from leaflet_parser import pParser
+import sys
+from pathlib import Path
 
-OUTPUT_FILE = "output/leaflets.json"
+# Add src directory to Python path
+sys.path.insert(0, str(Path(__file__).parent))
+
+from leaflet_parser import ProspektParser
+
+# Output path relative to project root
+OUTPUT_FILE = Path(__file__).parent.parent / "output" / "leaflets.json"
 
 
 def main():
-    parser = pParser()
+    parser = ProspektParser()
     leaflets = parser.parse_leaflets()
 
     data = [leaflet.__dict__ for leaflet in leaflets]

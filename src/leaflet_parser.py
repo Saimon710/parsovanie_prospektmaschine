@@ -4,7 +4,7 @@ from typing import List
 from models import Leaflet
 
 
-class pParser:
+class ProspektParser:
     URL = "https://www.prospektmaschine.de/hypermarkte/"
 
     def fetch_page(self) -> BeautifulSoup:
@@ -16,21 +16,24 @@ class pParser:
         soup = self.fetch_page()
         leaflets = []
 
+        #Selects all leaflet items
         items = soup.select("div.brochure-thumb")
-        print("TOTAL ITEMS FOUND:", len(items))
 
         for item in items:
             try:
-                title = item.select_one(".grid-item-content strong").get_text(strip=True)
+                #Getting the title
+                title = item.select_one(".grid-item-content strong").get_text(strip=True) 
 
-                shop_name = item.select_one(".grid-logo img")["alt"].replace("Logo ", "")
+                #Getting the shop name
+                shop_name = item.select_one(".grid-logo img")["alt"].replace("Logo ", "") 
 
-                img = item.select_one(".img-container img")
-                thumbnail = img.get("src") or img.get("data-src")
-
+                #Getting the image source
+                img = item.select_one(".img-container img") 
+                thumbnail = img.get("src") or img.get("data-src")  # Handles lazy-loaded images
+                
+                #Getting the validity dates
                 date = item.select_one("p.grid-item-content small.hidden-sm").get_text(strip=True)
                 valid_from, valid_to = date.split(" - ")
-
 
                 leaflet = Leaflet(
                     title=title,
@@ -43,7 +46,6 @@ class pParser:
                 leaflets.append(leaflet)
 
             except Exception:
-                # stabilita riešenia – ak jeden zlyhá, ostatné idú ďalej
                 continue
 
         return leaflets

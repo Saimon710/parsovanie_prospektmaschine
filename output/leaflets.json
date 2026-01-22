@@ -1,27 +1,11 @@
 [
   {
-    "title": "Prospekt Berlin / Steglitz",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/rwaWajEDn-VX5cxQ-y1RpUwolKs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039463/0.jpg?t=1768840922",
+    "title": "Prospekt Berlin / Mitte",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/F2QLt1LaiaHjA07D0YeMGSXXNP8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1034795/0.jpg?t=1768833894",
     "shop_name": "Rewe",
     "valid_from": "19.01.2026",
     "valid_to": "25.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Prospekt Berlin / Kreuzberg",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/biWz8rVaR5I6mZS4XL-7PFg6PsM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039316/0.jpg?t=1768840953",
-    "shop_name": "Rewe",
-    "valid_from": "18.01.2026",
-    "valid_to": "25.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Prospekt Berlin / Friedrichshain",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/tOkhpkn2Nr5ydsruSK-xFc8gO0E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039778/0.jpg?t=1768844458",
-    "shop_name": "Rewe",
-    "valid_from": "18.01.2026",
-    "valid_to": "25.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
     "title": "Prospekt Berlin",
@@ -29,79 +13,47 @@
     "shop_name": "Rewe",
     "valid_from": "19.01.2026",
     "valid_to": "25.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
-    "title": "Prospekt Berlin / Mitte",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/F2QLt1LaiaHjA07D0YeMGSXXNP8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1034795/0.jpg?t=1768833894",
+    "title": "Prospekt Berlin / Friedrichshain",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/tOkhpkn2Nr5ydsruSK-xFc8gO0E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039778/0.jpg?t=1768844458",
+    "shop_name": "Rewe",
+    "valid_from": "18.01.2026",
+    "valid_to": "25.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt Berlin / Steglitz",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/rwaWajEDn-VX5cxQ-y1RpUwolKs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039463/0.jpg?t=1768840922",
     "shop_name": "Rewe",
     "valid_from": "19.01.2026",
     "valid_to": "25.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/a4ndKicmeTubAxzTQpAXLrc_eXQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1040198/0.jpg?t=1768950641",
+    "title": "Prospekt Berlin / Kreuzberg",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/biWz8rVaR5I6mZS4XL-7PFg6PsM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/45/1039316/0.jpg?t=1768840953",
+    "shop_name": "Rewe",
+    "valid_from": "18.01.2026",
+    "valid_to": "25.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt Berlin",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/HxaRo6Wfm03Tfp4kBua67KlgH54=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050224/0.jpg?t=1769067115",
     "shop_name": "Kaufland",
     "valid_from": "22.01.2026",
     "valid_to": "28.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/YCZATngbN220FgoU9tx1QD6zegE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032851/0.jpg?t=1768950640",
-    "shop_name": "Selgros",
+    "title": "Prospekt Ahrensfelde",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/jDpZqyzrXxEh38HiqpZ74ucDabg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1050707/0.jpg?t=1769067056",
+    "shop_name": "Kaufland",
     "valid_from": "22.01.2026",
     "valid_to": "28.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Sonderbeilage",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/Qsq59So6ZRj8Fnl3_VU_5b_ICv0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/1033010/0.jpg?t=1768634446",
-    "shop_name": "HERKULES",
-    "valid_from": "22.01.2026",
-    "valid_to": "24.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Non Food",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/WSN7Rxi6FFYSiBix8fXeiZU0C9I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032854/0.jpg?t=1768819730",
-    "shop_name": "Selgros",
-    "valid_from": "22.01.2026",
-    "valid_to": "28.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Gastronomie",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/yEu7PKZ41JdcCWjmC2tp04946g4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032848/0.jpg?t=1768547131",
-    "shop_name": "Selgros",
-    "valid_from": "22.01.2026",
-    "valid_to": "04.02.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Außengastronomie",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/Z2mIf5NDz9Xy17hQpUMoczyMjO4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1032845/0.jpg?t=1768547039",
-    "shop_name": "Selgros",
-    "valid_from": "22.01.2026",
-    "valid_to": "30.04.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Veganuary",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/8VQiiejhKst2Zx1SL0QNbNqbwdU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/1007819/0.jpg?t=1767346364",
-    "shop_name": "Selgros",
-    "valid_from": "22.01.2026",
-    "valid_to": "22.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/sRNPMQa4yysXoToEnLqPqSsMYkc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/1048250/0.jpg?t=1768921831",
-    "shop_name": "CITTI Markt",
-    "valid_from": "21.01.2026",
-    "valid_to": "27.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
     "title": "Prospekt",
@@ -109,7 +61,55 @@
     "shop_name": "Netto",
     "valid_from": "25.01.2026",
     "valid_to": "31.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/BGXxAc0TGtIA8D5Cxizif5lpsPg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/1048277/0.jpg?t=1769016861",
+    "shop_name": "AEZ",
+    "valid_from": "26.01.2026",
+    "valid_to": "31.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/a4ndKicmeTubAxzTQpAXLrc_eXQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/1040198/0.jpg?t=1768950641",
+    "shop_name": "Kaufland",
+    "valid_from": "22.01.2026",
+    "valid_to": "28.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/FsQSGdGszAwwUpnxuWireALirT8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/1048262/0.jpg?t=1768977957",
+    "shop_name": "Netto Marken-Discount",
+    "valid_from": "26.01.2026",
+    "valid_to": "31.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/FV61iAgBxzl9od3iwy6DY3G23GM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/1041647/0.jpg?t=1768804325",
+    "shop_name": "Aldi",
+    "valid_from": "26.01.2026",
+    "valid_to": "31.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/3AyLdz8o_lyS4QO-cHpWZQloEvU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/1051169/0.jpg?t=1769053909",
+    "shop_name": "Globus",
+    "valid_from": "26.01.2026",
+    "valid_to": "31.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
+  },
+  {
+    "title": "Prospekt",
+    "thumbnail": "https://eu.leafletscdns.com/thumbor/K9tCR-nWqiyw0_nFVCA1abIRGR8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/1048193/0.jpg?t=1768889691",
+    "shop_name": "Famila",
+    "valid_from": "26.01.2026",
+    "valid_to": "31.01.2026",
+    "parsed_time": "2026-01-22 18:43:22"
   },
   {
     "title": "Prospekt",
@@ -117,6 +117,6 @@
     "shop_name": "WEZ",
     "valid_from": "26.01.2026",
     "valid_to": "31.01.2026",
-    "parsed_time": "2026-01-21 20:15:53"
+    "parsed_time": "2026-01-22 18:43:22"
   }
 ]
